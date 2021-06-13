@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hey!
-  I'm @apexnova08, a Computer Science student who likes to code and play videogames!
+  I'm @apexnova08, a Computer Science student who likes to play videogames and do Computer Sciency stuff!
   
 ### Interests:
 - Automation
