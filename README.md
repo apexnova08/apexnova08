@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
   I'm @apexnova08, a Computer Science graduate who likes to play videogames and do Computer Sciency stuff!
 
 ### Portfolio
-  For more information about me, you can check out my porfolio below:<br />
+  For more information about me, you can check out my porfolio linked below:<br />
   https://apexnova08.github.io/tonydiesta/<br />
 
 ### Contact:
